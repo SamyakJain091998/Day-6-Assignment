@@ -9,7 +9,7 @@ import org.junit.runners.Parameterized;
 
 import java.util.*;
 //@RunWith(Parameterized.class)
-public class TestFirstName {
+public class TestUC10 {
 
 	@Test
 	public void when_Valid_First_Name_Returns_True() {
